@@ -10,4 +10,5 @@ hello,git!
 hello,git!
 hello,git!
 hello,git! master merage confilt
+hello,git! hot-fix merge conflit
 hello,git! hox-fix       hot-fix
